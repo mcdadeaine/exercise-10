@@ -69,3 +69,8 @@ main {
   width: 200px;
   height: auto;
 }
+.story {
+  margin-top: 20px;
+  text-align: justify;
+  padding: 20px 0;
+}
