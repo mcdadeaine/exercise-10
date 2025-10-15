@@ -33,6 +33,15 @@ a:link{
   text-decoration: none;
   color: #FFFFFF
 }
+a:visited {
+  color: #7D3E07;
+}
+a:hover {
+  color: #FAA152;
+}
+a:active {
+  color: #FA8319;
+}
 main {
   float: left;
   position: relative;
