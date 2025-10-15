@@ -63,3 +63,9 @@ main {
   border-radius: 8px;
   margin-bottom: 20px;
 }
+.sticky-image {
+  float: right;
+  position: sticky;
+  width: 200px;
+  height: auto;
+}
