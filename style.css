@@ -33,3 +33,11 @@ a:link{
   text-decoration: none;
   color: #FFFFFF
 }
+main {
+  float: left;
+  position: relative;
+  top: 80px;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 25px;
+}
