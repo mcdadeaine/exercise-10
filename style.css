@@ -57,3 +57,9 @@ main {
   letter-spacing: 2px;
   margin-bottom: 20px;
 }
+.image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
