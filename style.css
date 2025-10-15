@@ -14,6 +14,7 @@ header{
   width: 100%;
   position: fixed;
   top: 0;
+  display: inline;
   text-transform: uppercase;
   background-color: #000000;
   color: #FFFFFF;
@@ -30,4 +31,5 @@ header{
 }
 a:link{
   text-decoration: none;
+  color: #FFFFFF
 }
