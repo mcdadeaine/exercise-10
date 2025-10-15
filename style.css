@@ -14,7 +14,6 @@ header{
   width: 100%;
   position: fixed;
   top: 0;
-  display: inline;
   text-transform: uppercase;
   background-color: #000000;
   color: #FFFFFF;
@@ -25,9 +24,11 @@ header{
 .site-title {
   font-weight: bold;
   text-align: left;
+  display: inline;
 }
 .site-nav {
-  text-align: right;
+  display: inline;
+  float: right;
 }
 a:link{
   text-decoration: none;
@@ -61,7 +62,6 @@ main {
   width: 100%;
   height: auto;
   border-radius: 8px;
-  margin-bottom: 20px;
 }
 .sticky-image {
   float: right;
